@@ -1,4 +1,4 @@
-Desarrollar una aplicación en Java que permita ingresar información de varios padres de familia. La información que se necesita por cada padre de familia es:
+﻿Desarrollar una aplicación en Java que permita ingresar información de varios padres de familia. La información que se necesita por cada padre de familia es:
 
 Nombres y apellidos del padre de familia.
 Sueldo semanal del padre de familia.
@@ -10,23 +10,23 @@ El usuario decidirá cuando termina el ingreso de información:
 Al final se debe generar un reporte demo, como el siguiente:
 
 
-Reporte Gastos de Padres de Familia
+Reporte Gastos de Padres de Familia1
 
-Reporte 001
+Reporte 0012
 
 Nombre de Padre de Familia: José Valencia
 Sueldo Semanal:	$60
 Número de Hijos: 3
 
 Reporte de Gastos
-Persona		Pasaje 		Bar		Salidas
+Persona		Pasaje 		Bar		Salidas2
 Hijo 1		1,2			2,8		5.7
 Hijo 2		1,9			2,1		5.2
 Hijo 3		1,7			2,7		5.5
-Totales		x			x		x
-El padre de familia José Valencia le [alcanza, falta] el dinero semanal, para sus gastos
+Totales		x			x		x3
+El padre de familia José Valencia le [alcanza, falta] el dinero semanal, para sus gastos4
 
-Fin reporte 001
+Fin reporte 0015
 
 Reporte 002
 
