@@ -1,4 +1,5 @@
-﻿Desarrollar una aplicación en Java que permita ingresar información de varios padres de familia. La información que se necesita por cada padre de familia es:
+﻿Desarrollar una aplicación en Java que permita ingresar información de varios padres de familia.
+ La información que se necesita por cada padre de familia es:
 
 Nombres y apellidos del padre de familia.
 Sueldo semanal del padre de familia.
